@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/@@@InSea_release" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/@@InSea_Kakao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/@@InSea_Login_E" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/@@InSea_develop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/@@InSea_kakaomap_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/@@InSea_map" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/@@InSea_weather" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/@@Insea_Login" vcs="Git" />
+  </component>
+</project>
